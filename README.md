@@ -11,5 +11,9 @@
 ### Array
 [75. Sort Colors](https://github.com/paras-13/Leetcode/blob/main/75.cpp)
 
+
+### Subarray Problem
+[560. Subarray Sum equals K](https://github.com/paras-13/Leetcode/blob/main/560.cpp)
+
 ### Stack
 [1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/paras-13/Leetcode/blob/main/1190.cpp)
