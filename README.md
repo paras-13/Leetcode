@@ -17,3 +17,6 @@
 
 ### Stack
 [1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/paras-13/Leetcode/blob/main/1190.cpp)
+
+### Graph
+[547. Number Of Provinces](https://github.com/paras-13/Leetcode/blob/main/547.cpp)
