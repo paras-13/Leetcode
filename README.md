@@ -11,6 +11,8 @@
 ### Array
 [75. Sort Colors](https://github.com/paras-13/Leetcode/blob/main/75.cpp)
 
+### String
+[3. Longest Substring Without Repeating Characters](https://github.com/paras-13/Leetcode/blob/main/3.cpp)
 
 ### Subarray Problem
 [560. Subarray Sum equals K](https://github.com/paras-13/Leetcode/blob/main/560.cpp)
