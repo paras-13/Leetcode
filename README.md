@@ -23,3 +23,7 @@
 
 ### Graph
 [547. Number Of Provinces](https://github.com/paras-13/Leetcode/blob/main/547.cpp)
+
+
+### Binary Search
+[74. Search a 2D Matrix](https://github.com/paras-13/Leetcode/blob/main/74.cpp)
